@@ -1,0 +1,12 @@
+Comando: uname -a
+Información que muestra: Muestra toda la información disponible del sistema operativo y del kernel Linux, incluyendo el nombre del kernel (Linux), el nombre de host de la red, la versión y fecha de compilación del kernel, la arquitectura del hardware (por ejemplo, x86_64 o arm), y el nombre del sistema operativo.
+
+Comando: whoami
+Información que muestra: Muestra el nombre del usuario con el que se está trabajando actualmente en la terminal activa, es decir, el usuario propietario del proceso actual.
+
+Importancia en la administración de servidores:
+Conocer esta información es de vital importancia cuando se administra un servidor por varios motivos claves:
+1. Permite verificar la arquitectura del procesador antes de descargar, compilar o instalar paquetes de software y binarios compatibles.
+2. Ayuda a identificar la versión exacta del kernel del sistema, lo cual es fundamental para saber si está expuesta a vulnerabilidades conocidas y si requiere parches de seguridad críticos.
+3. Permite confirmar los privilegios de ejecución del usuario activo (por ejemplo, si se es 'root' o un usuario limitado) antes de ejecutar comandos críticos que modifiquen el sistema o requieran permisos elevados.
+4. Facilita la resolución de problemas (troubleshooting) y auditorías al registrar de manera inequívoca qué sistema y qué usuario realizaron una acción o experimentaron un fallo.

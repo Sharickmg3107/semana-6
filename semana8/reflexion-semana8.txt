@@ -1,0 +1,9 @@
+La seguridad digital es un pilar fundamental en las plataformas de participación comunitaria,
+ya que estas suelen gestionar información y datos personales de ciudadanos activos. Proteger
+la privacidad de los usuarios evita que se expongan a situaciones de acoso, discriminación o
+represalias en sus respectivos entornos. Adicionalmente, asegurar la integridad del software y
+de las comunicaciones (por ejemplo, mediante cifrado y credenciales seguras) garantiza que los
+procesos colectivos de votación, debate o reportes vecinales no sean manipulados por terceros
+con intereses ajenos a la comunidad. En última instancia, la implementación de buenas prácticas
+de seguridad genera la confianza pública indispensable para que el proceso participativo prospere,
+demostrando que la protección de la información es una responsabilidad ética, técnica y social.
