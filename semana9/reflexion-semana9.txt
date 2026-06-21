@@ -1,0 +1,9 @@
+La estabilidad y seguridad de los servidores que albergan plataformas comunitarias son fundamentales porque
+estas herramientas digitales representan el principal canal de comunicación y organización de sus miembros.
+Si un servidor es inestable y experimenta caídas constantes, se interrumpe el acceso a recursos clave,
+lo cual erosiona la confianza de la comunidad y obstaculiza la toma de decisiones o la ayuda mutua.
+Asimismo, la seguridad informática protege la privacidad de los usuarios frente a posibles filtraciones,
+resguardando datos personales y sensibles que podrían ser explotados maliciosamente por terceros.
+Un entorno seguro previene ataques que busquen suplantar identidades o alterar información de interés público.
+En consecuencia, mantener un servidor confiable no es solo un reto técnico, sino un compromiso ético
+y social para asegurar la equidad, el libre acceso a la información y el bienestar de toda la comunidad.
